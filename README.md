@@ -3,8 +3,7 @@ A visual interface for security system
 
 ## Configuration
 Run this code on cmd:</br>
-  
-  `pip install -r requirements.txt`
+       `pip install -r requirements.txt`
  
 
 ## Run main.py
